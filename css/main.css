@@ -1459,8 +1459,8 @@ header .logo a {
 }
 
 .profile-image{
-	height: 9rem;
-	width: 9rem;
+	height: 12rem;
+	width: 12rem;
 	object-fit: cover;
 	border-radius: 50%;
 	margin: .9rem 0 0 0;
